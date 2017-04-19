@@ -1,0 +1,18 @@
+Steps
+
+
+cd F:/
+cd Works
+
+git init
+git add -A
+git commit -m "Committed Succesfully"
+git remote add origin https://github.com/sidhmoha/Projects.git
+
+git push -u origin master
+
+git status
+git fetch
+git checkout test   /// switch to test from master
+git pull
+
